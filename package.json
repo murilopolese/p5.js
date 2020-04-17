@@ -1,5 +1,6 @@
 {
   "name": "p5",
+  "version": "1.0.0",
   "repository": "processing/p5.js",
   "scripts": {
     "grunt": "grunt",
